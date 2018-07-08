@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "rylbYOEA1HI2BfUOOz0QRmCf5ks=",
+			"path": "github.com/julienschmidt/httprouter",
+			"revision": "e1b9828bc9e5904baec057a154c09ca40fe7fae0",
+			"revisionTime": "2017-10-27T13:37:09Z"
+		},
+		{
+			"checksumSHA1": "JtRitElXXwBSKX2G7HsK9ErgHI0=",
+			"path": "github.com/v2af/file",
+			"revision": "1c3abc8803537913d976e02dd576ca7be7cfa8e6",
+			"revisionTime": "2017-09-14T03:22:55Z"
+		}
+	],
+	"rootPath": "github.com/v2af/ipify"
+}
